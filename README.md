@@ -31,5 +31,3 @@ To analyze CO₂ emissions trends by country over time, uncover insights, and vi
 ## 📸 Visuals Preview
 Screenshots or sample charts can be added here for showcase.
 
-## 🤝 Author
-Mentored by Ejaz Habib Dar
